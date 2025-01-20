@@ -4,3 +4,15 @@
 [submodule "Roll-a-ball"]
 	path = Roll-a-ball
 	url = https://github.com/CostinCJ/First-Game
+[submodule "Game-of-Life"]
+	path = Game-of-Life
+	url = https://github.com/CostinCJ/Game-of-Life
+[submodule "Connect-Four"]
+	path = Connect-Four
+	url = https://github.com/CostinCJ/Connect-Four
+[submodule "Student-Management"]
+	path = Student-Management
+	url = https://github.com/CostinCJ/Student-Management
+[submodule "Movie-Watchlist"]
+	path = Movie-Watchlist
+	url = https://github.com/CostinCJ/Movie-Watchlist
