@@ -16,3 +16,6 @@
 [submodule "Movie-Watchlist"]
 	path = Movie-Watchlist
 	url = https://github.com/CostinCJ/Movie-Watchlist
+[submodule "Simple-Game"]
+	path = Simple-Game
+	url = https://github.com/CostinCJ/Simple-Game
